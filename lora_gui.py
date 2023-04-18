@@ -382,7 +382,7 @@ def train_model(
     lr_warmup_steps = round(float(int(lr_warmup) * int(max_train_steps) / 100))
     print(f'lr_warmup_steps = {lr_warmup_steps}')
 
-    run_cmd = [f'python', '/content/gdrive/MyDrive/sd/kohya_ss/train_network.py']
+    run_cmd = [f'python', '/content/kohya_ss/train_network.py']
 
     # run_cmd += f' --caption_dropout_rate="0.1" --caption_dropout_every_n_epochs=1'   # --random_crop'
 
