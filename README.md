@@ -1,3 +1,5 @@
+This is the link to the notebook https://github.com/dvelm/kohya_ss_colab_drive/blob/master/Kohya_SS%20gui%20installation%20on%20Colab%20drive.ipynb
+
 # Kohya's GUI
 
 This repository provides a Windows-focused Gradio GUI for [Kohya's Stable Diffusion trainers](https://github.com/kohya-ss/sd-scripts). The GUI allows you to set the training parameters and generate and run the required CLI commands to train the model.
